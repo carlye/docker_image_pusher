@@ -1,12 +1,12 @@
 #支持私库
-opengrok/docker
+#opengrok/docker
 #支持指定架构
---platform=linux/arm64 xiaoyaliu/alist
+#--platform=linux/arm64 xiaoyaliu/alist
 
 #mysql
 
 #container-registry.oracle.com/mysql/mysql-operator:8.4.8-2.1.10
-container-registry.oracle.com/mysql/community-router:8.4.5
-container-registry.oracle.com/mysql/community-server:8.4.5
+container-registry.oracle.com/mysql/community-router:8.4.8
+container-registry.oracle.com/mysql/community-server:8.4.8
 
 #mysql
